@@ -23,6 +23,13 @@ Sanchari Yatra is an intelligent travel companion that combines cutting-edge AI 
 - **📱 Mobile Responsive**: Fully optimized for desktop, tablet, and mobile devices
 - **⚡ Instant Search**: Quick access to travel essentials, top picks, and curated recommendations
 
+## 🔗 Quick Links
+
+* **Live Deployment**: [https://sanchari-yatra.vercel.app/](https://sanchari-yatra.vercel.app/)
+* **GitHub Repository**: [View Source Code](https://github.com/Saichandanyadav/sanchari-yatra)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
