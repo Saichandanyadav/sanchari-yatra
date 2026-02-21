@@ -57,7 +57,7 @@ function HomeContent() {
         localStorage.setItem("sanchari_chats", JSON.stringify(updated));
         localStorage.setItem("sanchari_active_chat", newId);
         localStorage.setItem(`sanchari_chat_${newId}_title`, JSON.stringify("New Trip Chat"));
-        router.push(`/?id=${newId}`, { shallow: true });
+        router.push(`/?id=${newId}`);
       }
       setInitialized(true);
     }
